@@ -10,6 +10,7 @@ O projeto consiste basicamente em:
 É utilizado o banco de dados Sqlite3.
 
 Regra de negócio deste projeto:
+
 O usuário pode se cadastrar livremente, porém com o simples cadastro do usuário ele apenas terá permissão para consultas,
 
 para ter mais permissões elas deverão ser concedidas a ele pelo ROOT, as permissões possíveis são:
