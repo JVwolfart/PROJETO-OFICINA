@@ -11,9 +11,8 @@ O projeto consiste basicamente em:
 
 Regra de negócio deste projeto:
 
-O usuário pode se cadastrar livremente, porém com o simples cadastro do usuário ele apenas terá permissão para consultas,
+O usuário pode se cadastrar livremente, porém com o simples cadastro do usuário ele apenas terá permissão para consultas,para ter mais permissões elas deverão ser concedidas a ele pelo ROOT, as permissões possíveis são:
 
-para ter mais permissões elas deverão ser concedidas a ele pelo ROOT, as permissões possíveis são:
 - Somente consulta
 - Criar (permite cadastrar novos veículos e clientes)
 - Editar (permite alterar veículos e clientes existentes)
